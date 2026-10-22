@@ -2,6 +2,7 @@
 name = "guessing-game"
 version = "0.1.0"
 edition = "2024"
+description = "A simple Rust number-guessing game where the player tries to guess a random number with hints."
 
 [dependencies]
 colored = "3.1.1"
